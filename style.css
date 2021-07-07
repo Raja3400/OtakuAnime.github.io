@@ -1,0 +1,150 @@
+
+
+*{
+    margin: 0;padding: 0;
+    
+}
+body{
+    height: 230vh;
+}
+header{
+    height: 31vh;
+    
+
+}
+main{   
+    
+    overflow: hidden;
+    min-height: 184vh;
+    
+    background: url("https://t4.ftcdn.net/jpg/02/97/79/83/360_F_297798377_VB9egqGnRKcZxU53wybEHLRnnTrcvlAH.jpg");
+}
+footer{
+    background-color: #044a04;
+    height: 15vh;
+    text-align: center;
+    color: #dcbdbd;
+}
+.nav1{
+    background-color:#044a04;
+    color:#1d8bec;
+    font-size: 40px;
+display: flex;
+
+padding: 10px 10px;
+list-style: none;
+
+}
+ul{
+    display: flex;
+    padding: 10px 20px;
+    list-style: none;
+    
+}
+a{
+    color: greenyellow;
+    text-decoration: none;
+
+}
+
+.btn1{
+    margin-left: 30px;
+}
+
+li{
+ 
+    padding-right: 25px;
+}
+button{
+   
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+button:hover{
+   cursor: pointer;
+}
+.nav2{
+    display: flex;
+    background-color: #146767;
+    color: rgb(158, 207, 43);
+    list-style: none;
+}
+a:hover{
+   color: red;
+  font-weight: bolder;
+}
+#search{
+    width: 300px;
+    height: 20px;
+    margin-left: 670px;
+}
+.btn{
+    width: 56px;
+    height: 26px;
+}
+.h2{
+    background-color: #96eeee;
+}
+
+.main{
+    height: 30vh;
+    background-color: grey;
+    display: inline-block;
+    width: 65vw;
+  
+}
+.side{
+    display: inline-block;
+ margin: 0 20px;
+    height: 30vh;
+    width: 28vw;
+    background-color: rgb(251, 98, 141);
+}
+.side.ul{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    display: flex;
+   margin-left: 0px;
+}
+.img{
+    margin-right: 85px;
+}
+.discuss{
+   
+    background-color: rgb(192, 186, 186);
+    width: 65vw;
+}
+.dis{
+    margin-top: 15px;
+
+}
+.news1{
+    display: flex;
+}
+.Recommendations{
+    width: 30vw;
+    margin-left: 15px;
+background-color: rgb(214, 172, 172);
+}
+ol{
+    list-style: none;
+}
+.reco{
+    margin-top: 10px;
+    display: flex;
+}
+.recop{
+    margin-left: 70px;
+}
+.table
+{
+    margin-top: 20px;
+   margin-left: 620px;
+    background-color: rgb(148, 128, 128);
+    width: 26vw;
+   
+
+}
